@@ -1,0 +1,7 @@
+C:\Users\34662\source\repos\InheritanceConsoleProject\bin\Debug\InheritanceConsoleProject.exe.config
+C:\Users\34662\source\repos\InheritanceConsoleProject\bin\Debug\InheritanceConsoleProject.exe
+C:\Users\34662\source\repos\InheritanceConsoleProject\bin\Debug\InheritanceConsoleProject.pdb
+C:\Users\34662\source\repos\InheritanceConsoleProject\obj\Debug\InheritanceConsoleProject.csproj.AssemblyReference.cache
+C:\Users\34662\source\repos\InheritanceConsoleProject\obj\Debug\InheritanceConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\34662\source\repos\InheritanceConsoleProject\obj\Debug\InheritanceConsoleProject.exe
+C:\Users\34662\source\repos\InheritanceConsoleProject\obj\Debug\InheritanceConsoleProject.pdb
